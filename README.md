@@ -1,1 +1,1 @@
-"# GUI" 
+This is my first attempt on making a GUI in Python!
