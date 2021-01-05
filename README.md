@@ -10,3 +10,5 @@ This is my first time trying out Tkinter! This is a program to open up the files
 7. Click **Run Apps** and then it will open the files
 8. Once you exit out of the GUI it will save the last files you chose to a .txt file
 9. **Note** to get rid of the saved files you must delete the save.txt file and then launch the GUI
+
+If there is any issues or any tips let me know! I appreciate the help :)
